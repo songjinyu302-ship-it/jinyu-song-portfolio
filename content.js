@@ -1,7 +1,7 @@
 window.PORTFOLIO = {
   "name": "宋觐宇",
   "alias": "金鱼",
-  "updated": "2026.10.27",
+  "updated": "2026.10.31",
   "email": "2771045506@qq.com",
   "phone": "15073141363",
   "intro": "沈阳大学播音主持艺术专业，2027 届。用表达走近人，用 AI 验证想法，在真实业务里理解需求、推进交付。",
@@ -164,21 +164,45 @@ window.PORTFOLIO = {
             "platform": "小红书",
             "stats": "2210 粉丝 / 3 万获赞与收藏",
             "image": "assets/content/account-xhs.webp",
-            "focus": "旅行、探店与生活分享"
+            "focus": "旅行、探店与生活分享",
+            "accountId": "chenjiaji518",
+            "homepageUrl": "https://xhslink.cn/o/3QJtjoXqJ4r"
           },
           {
             "name": "爱拍照的一只鱼",
             "platform": "抖音 · 摄影服务",
             "stats": "710 粉丝 / 5.2 万获赞",
             "image": "assets/content/account-photo.webp",
-            "focus": "摄影服务与作品展示"
+            "focus": "摄影服务与作品展示",
+            "accountId": "97966634281",
+            "homepageUrl": ""
           },
           {
             "name": "我不是金鱼",
             "platform": "抖音 · 生活内容",
             "stats": "2265 粉丝 / 2.3 万获赞",
             "image": "assets/content/account-life.webp",
-            "focus": "日常记录与个人表达"
+            "focus": "日常记录与个人表达",
+            "accountId": "2057930971",
+            "homepageUrl": ""
+          },
+          {
+            "name": "主持人金鱼",
+            "platform": "抖音 · 主持日常",
+            "stats": "25 粉丝 / 518 获赞 · 早期截图",
+            "image": "assets/content/account-host.webp",
+            "focus": "婚礼主持、现场表达与主持记录",
+            "accountId": "22175837210",
+            "homepageUrl": ""
+          },
+          {
+            "name": "金鱼_Julian 🎤",
+            "platform": "小红书 · 主持与表达",
+            "stats": "607 粉丝 / 5099 获赞与收藏 · 早期截图",
+            "image": "assets/content/account-julian.webp",
+            "focus": "主持日常、表达技巧与个人成长",
+            "accountId": "sssyu98",
+            "homepageUrl": "https://xhslink.cn/o/ACmFuNHc3LK"
           }
         ]
       },
